@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Hadilton Selis
 
-<!--
-**HadiltonSelis/HadiltonSelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor **Front-end** apaixonado por criar interfaces eficientes, experiências intuitivas e soluções que realmente resolvem problemas.
+Atualmente aprimorando habilidades em **React, Javascript, API REST e boas práticas de Clean Code**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias & Ferramentas
+
+### Front-end
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js, Vite, Context API, Hooks
+- TailwindCSS, Styled Components
+
+### Back-end (aprendendo / em evolução)
+- APIs REST, CRUD, Autenticação JWT
+- Firebase / Supabase
+
+### Banco de Dados
+- Supabase
+
+### Ferramentas & Workflow
+- Git & GitHub
+- VS Code
+- Figma
+
+---
+
